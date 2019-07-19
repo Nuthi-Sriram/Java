@@ -1,7 +1,6 @@
-# DataStructures_Algorithms_Java
+# Java
 
-Collection of the programs currently being done in DataStructures and Algorithms Lab
-
+Collection of the programs currently being done in OOPS Lab.
 # :book: How to use the repository?
 
 - [Master branch](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/tree/master/Source%20Codes) contains codes that have been tested and are guaranteed to run. For any issues please report to us in the format mentioned below.
