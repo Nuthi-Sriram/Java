@@ -3,7 +3,7 @@
 Collection of the programs currently being done in OOPS Lab.
 # :book: How to use the repository?
 
-- [Master branch](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/tree/master/Source%20Codes) contains codes that have been tested and are guaranteed to run. For any issues please report to us in the format mentioned below.
+- [Master branch](https://github.com/Nuthi-Sriram/Java/tree/master/Source%20Code%20) contains codes that have been tested and are guaranteed to run. For any issues please report to us in the format mentioned below.
 
 # :octocat: How to contribute?
 
@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # :octocat: Team
 
 - **Nuthi-Sriram** - _Coder and tester_ - [Nuthi-Sriram](https://github.com/Nuthi-Sriram)
-  See the full list of [contributors](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/graphs/contributors) who participated in this project and statistics.
+  See the full list of [contributors](https://github.com/Nuthi-Sriram/Java/graphs/contributors) who participated in this project and statistics.
 
 # :heavy_exclamation_mark: Prerequisites aka requirements
 
@@ -26,11 +26,11 @@ Please read [Prerequisite](Prerequisite.md) file for details.
 
 # :scroll: Changelog
 
-Check the [changelog here](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/commits/master).
+Check the [changelog here](https://github.com/Nuthi-Sriram/Java/commits/master).
 
 # :scroll: I found some bugs or issues. Where do I report?
 
-Report [here](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/issues) in detail answering these questions:
+Report [here](https://github.com/Nuthi-Sriram/Java/issues) in detail answering these questions:
 
 - What steps did you take to make the bug appear?
 - How can the bug be fixed? (In case you know)
@@ -40,4 +40,4 @@ Report [here](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/iss
 
 # :scroll: How do I contact the team?
 
-Check [here](https://github.com/Nuthi-Sriram/DataStructures_Algorithms_Java/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
+Check [here](https://github.com/Nuthi-Sriram/Java/graphs/contributors) for the list of contributors. Contact one of them through their profiles.

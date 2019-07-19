@@ -1,7 +1,6 @@
 # Prerequisites:
 
 * Java Programming language.
-* Knowledge on Data Structures.
 
 # Recommendations:
 
